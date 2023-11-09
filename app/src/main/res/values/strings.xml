@@ -1,0 +1,13 @@
+<resources>
+    <string name="ptw">Plan to Watch</string>
+    <string name="watched">Watched</string>
+    <string name="watching">Watching</string>
+    <string name="app_name">Plan To Watch</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Search for shows</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="fatalError">Fatal error</string>
+    <string name="warning">Warning</string>
+    <string name="details">Details</string>
+</resources>
